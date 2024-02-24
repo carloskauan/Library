@@ -1,0 +1,14 @@
+C:\Users\Carlos Kauan\Desktop\c#\Library\bin\Debug\net8.0\Library.exe
+C:\Users\Carlos Kauan\Desktop\c#\Library\bin\Debug\net8.0\Library.deps.json
+C:\Users\Carlos Kauan\Desktop\c#\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+C:\Users\Carlos Kauan\Desktop\c#\Library\bin\Debug\net8.0\Library.dll
+C:\Users\Carlos Kauan\Desktop\c#\Library\bin\Debug\net8.0\Library.pdb
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\Library.dll
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\refint\Library.dll
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\Library.pdb
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+C:\Users\Carlos Kauan\Desktop\c#\Library\obj\Debug\net8.0\ref\Library.dll
