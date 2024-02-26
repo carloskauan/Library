@@ -2,14 +2,17 @@ namespace Library{
   class Book{
     private string NAME;
     private int YEAR;
-    public string COD_BOOK;
-    public string[][] CLASSIFIC = {new string[3], new string[5]};
+    private string COD_BOOK;
+    private string[][] CLASSIFIC = {new string[3], new string[5]};
     private string AUTHOR;
     private int NUMBER_PAGES;
 
-    public Book(){
+    public Book(string[] catalogy){
       System.Console.Write("\nNOME>>");
       NAME = Console.ReadLine();
+      
+      if(VerifyExistence(catalogy, this))
+        return;
 
       System.Console.Write("\nYEAR>>");
       YEAR = int.Parse(Console.ReadLine());
@@ -70,6 +73,25 @@ namespace Library{
         }
         System.Console.WriteLine("");
       }
+    }
+    
+    //Getter e Setter
+    public string GetName(){
+      return NAME.ToUpper();
+    }
+    public string GetCodBook(){
+      return COD_BOOK;
+    }
+
+    //StaticS
+    static public bool VerifyExistence(string[] catalogy, Book instanceBook){
+      foreach (var title in catalogy){
+      if(title.Equals(instanceBook.GetName())){
+          Console.ReadLine();
+          return true;
+        }
+      }
+      return false;
     }
   }
 }
